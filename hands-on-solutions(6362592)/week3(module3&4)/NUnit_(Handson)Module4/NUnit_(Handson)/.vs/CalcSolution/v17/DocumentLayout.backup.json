@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COGNIZANT\\WEEK_2\\NUnit_(Handson)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1D3B5C1-2F2C-4B1D-B579-C1F8B93BD51D}|CalcLibrary.Tests\\CalcLibrary.Tests.csproj|d:\\cognizant\\week_2\\nunit_(handson)\\calclibrary.tests\\calclibrary.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1D3B5C1-2F2C-4B1D-B579-C1F8B93BD51D}|CalcLibrary.Tests\\CalcLibrary.Tests.csproj|solutionrelative:calclibrary.tests\\calclibrary.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcLibrary.Tests.csproj",
+              "DocumentMoniker": "D:\\COGNIZANT\\WEEK_2\\NUnit_(Handson)\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+              "RelativeDocumentMoniker": "CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+              "ToolTip": "D:\\COGNIZANT\\WEEK_2\\NUnit_(Handson)\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+              "RelativeToolTip": "CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-29T07:01:18.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
