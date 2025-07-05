@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COGNIZANT\\WEEK_3\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4805BD74-554B-4F04-A023-FE448434980F}|RetailInventory\\RetailInventory.csproj|d:\\cognizant\\week_3\\lab3\\retailinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4805BD74-554B-4F04-A023-FE448434980F}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4805BD74-554B-4F04-A023-FE448434980F}|RetailInventory\\RetailInventory.csproj|d:\\cognizant\\week_3\\lab3\\retailinventory\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4805BD74-554B-4F04-A023-FE448434980F}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4805BD74-554B-4F04-A023-FE448434980F}|RetailInventory\\RetailInventory.csproj|d:\\cognizant\\week_3\\lab3\\retailinventory\\retailinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4805BD74-554B-4F04-A023-FE448434980F}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\retailinventory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4805BD74-554B-4F04-A023-FE448434980F}|RetailInventory\\RetailInventory.csproj|d:\\cognizant\\week_3\\lab3\\retailinventory\\newfolder\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4805BD74-554B-4F04-A023-FE448434980F}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\newfolder\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4805BD74-554B-4F04-A023-FE448434980F}|RetailInventory\\RetailInventory.csproj|d:\\cognizant\\week_3\\lab3\\retailinventory\\newfolder\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4805BD74-554B-4F04-A023-FE448434980F}|RetailInventory\\RetailInventory.csproj|solutionrelative:retailinventory\\newfolder\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\COGNIZANT\\WEEK_3\\Lab3\\RetailInventory\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RetailInventory\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\COGNIZANT\\WEEK_3\\Lab3\\RetailInventory\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RetailInventory\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T07:57:29.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RetailInventory.csproj",
+              "DocumentMoniker": "D:\\COGNIZANT\\WEEK_3\\Lab3\\RetailInventory\\RetailInventory.csproj",
+              "RelativeDocumentMoniker": "RetailInventory\\RetailInventory.csproj",
+              "ToolTip": "D:\\COGNIZANT\\WEEK_3\\Lab3\\RetailInventory\\RetailInventory.csproj",
+              "RelativeToolTip": "RetailInventory\\RetailInventory.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T05:56:49.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\COGNIZANT\\WEEK_3\\Lab3\\RetailInventory\\NewFolder\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RetailInventory\\NewFolder\\Models\\Product.cs",
+              "ToolTip": "D:\\COGNIZANT\\WEEK_3\\Lab3\\RetailInventory\\NewFolder\\Models\\Product.cs",
+              "RelativeToolTip": "RetailInventory\\NewFolder\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:55:37.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\COGNIZANT\\WEEK_3\\Lab3\\RetailInventory\\NewFolder\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "RetailInventory\\NewFolder\\Models\\Category.cs",
+              "ToolTip": "D:\\COGNIZANT\\WEEK_3\\Lab3\\RetailInventory\\NewFolder\\Models\\Category.cs",
+              "RelativeToolTip": "RetailInventory\\NewFolder\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:55:07.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\COGNIZANT\\WEEK_3\\Lab3\\RetailInventory\\Program.cs",
+              "RelativeDocumentMoniker": "RetailInventory\\Program.cs",
+              "ToolTip": "D:\\COGNIZANT\\WEEK_3\\Lab3\\RetailInventory\\Program.cs",
+              "RelativeToolTip": "RetailInventory\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:53:28.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
