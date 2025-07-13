@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COGNIZANT\\WEEK_4\\Web_Api_Handson_4\\EmployeeApiSolution(Modified)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{786127A2-D4F9-454C-BADF-3D81B143CCA8}|EmployeeApi\\EmployeeApi.csproj|d:\\cognizant\\week_4\\web_api_handson_4\\employeeapisolution(modified)\\employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{786127A2-D4F9-454C-BADF-3D81B143CCA8}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{786127A2-D4F9-454C-BADF-3D81B143CCA8}|EmployeeApi\\EmployeeApi.csproj|d:\\cognizant\\week_4\\web_api_handson_4\\employeeapisolution(modified)\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{786127A2-D4F9-454C-BADF-3D81B143CCA8}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{786127A2-D4F9-454C-BADF-3D81B143CCA8}|EmployeeApi\\EmployeeApi.csproj|d:\\cognizant\\week_4\\web_api_handson_4\\employeeapisolution(modified)\\employeeapi\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{786127A2-D4F9-454C-BADF-3D81B143CCA8}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{786127A2-D4F9-454C-BADF-3D81B143CCA8}|EmployeeApi\\EmployeeApi.csproj|d:\\cognizant\\week_4\\web_api_handson_4\\employeeapisolution(modified)\\employeeapi\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{786127A2-D4F9-454C-BADF-3D81B143CCA8}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{786127A2-D4F9-454C-BADF-3D81B143CCA8}|EmployeeApi\\EmployeeApi.csproj|d:\\cognizant\\week_4\\web_api_handson_4\\employeeapisolution(modified)\\employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{786127A2-D4F9-454C-BADF-3D81B143CCA8}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{786127A2-D4F9-454C-BADF-3D81B143CCA8}|EmployeeApi\\EmployeeApi.csproj|d:\\cognizant\\week_4\\web_api_handson_4\\employeeapisolution(modified)\\employeeapi\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{786127A2-D4F9-454C-BADF-3D81B143CCA8}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{786127A2-D4F9-454C-BADF-3D81B143CCA8}|EmployeeApi\\EmployeeApi.csproj|d:\\cognizant\\week_4\\web_api_handson_4\\employeeapisolution(modified)\\employeeapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{786127A2-D4F9-454C-BADF-3D81B143CCA8}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\COGNIZANT\\WEEK_4\\Web_Api_Handson_4\\EmployeeApiSolution(Modified)\\EmployeeApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Program.cs",
+              "ToolTip": "D:\\COGNIZANT\\WEEK_4\\Web_Api_Handson_4\\EmployeeApiSolution(Modified)\\EmployeeApi\\Program.cs",
+              "RelativeToolTip": "EmployeeApi\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:36:23.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "D:\\COGNIZANT\\WEEK_4\\Web_Api_Handson_4\\EmployeeApiSolution(Modified)\\EmployeeApi\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "D:\\COGNIZANT\\WEEK_4\\Web_Api_Handson_4\\EmployeeApiSolution(Modified)\\EmployeeApi\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "EmployeeApi\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:36:06.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "D:\\COGNIZANT\\WEEK_4\\Web_Api_Handson_4\\EmployeeApiSolution(Modified)\\EmployeeApi\\Filters\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Filters\\CustomAuthFilter.cs",
+              "ToolTip": "D:\\COGNIZANT\\WEEK_4\\Web_Api_Handson_4\\EmployeeApiSolution(Modified)\\EmployeeApi\\Filters\\CustomAuthFilter.cs",
+              "RelativeToolTip": "EmployeeApi\\Filters\\CustomAuthFilter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:35:40.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\COGNIZANT\\WEEK_4\\Web_Api_Handson_4\\EmployeeApiSolution(Modified)\\EmployeeApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\COGNIZANT\\WEEK_4\\Web_Api_Handson_4\\EmployeeApiSolution(Modified)\\EmployeeApi\\Controllers\\EmployeeController.cs*",
+              "RelativeToolTip": "EmployeeApi\\Controllers\\EmployeeController.cs*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:35:12.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\COGNIZANT\\WEEK_4\\Web_Api_Handson_4\\EmployeeApiSolution(Modified)\\EmployeeApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Models\\Employee.cs",
+              "ToolTip": "D:\\COGNIZANT\\WEEK_4\\Web_Api_Handson_4\\EmployeeApiSolution(Modified)\\EmployeeApi\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeApi\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:34:24.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "D:\\COGNIZANT\\WEEK_4\\Web_Api_Handson_4\\EmployeeApiSolution(Modified)\\EmployeeApi\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Models\\Skill.cs",
+              "ToolTip": "D:\\COGNIZANT\\WEEK_4\\Web_Api_Handson_4\\EmployeeApiSolution(Modified)\\EmployeeApi\\Models\\Skill.cs",
+              "RelativeToolTip": "EmployeeApi\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:34:03.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\COGNIZANT\\WEEK_4\\Web_Api_Handson_4\\EmployeeApiSolution(Modified)\\EmployeeApi\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Models\\Department.cs",
+              "ToolTip": "D:\\COGNIZANT\\WEEK_4\\Web_Api_Handson_4\\EmployeeApiSolution(Modified)\\EmployeeApi\\Models\\Department.cs",
+              "RelativeToolTip": "EmployeeApi\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:33:37.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
