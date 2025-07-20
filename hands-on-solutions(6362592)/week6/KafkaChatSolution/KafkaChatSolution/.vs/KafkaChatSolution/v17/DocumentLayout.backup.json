@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COGNIZANT\\WEEK_5\\Web_Api_Handson_6\\KafkaChatSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7544D8BC-7EBE-41D3-9484-7C811AE42CB4}|KafkaChatApp\\KafkaChatApp.csproj|d:\\cognizant\\week_5\\web_api_handson_6\\kafkachatsolution\\kafkachatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7544D8BC-7EBE-41D3-9484-7C811AE42CB4}|KafkaChatApp\\KafkaChatApp.csproj|solutionrelative:kafkachatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7544D8BC-7EBE-41D3-9484-7C811AE42CB4}|KafkaChatApp\\KafkaChatApp.csproj|d:\\cognizant\\week_5\\web_api_handson_6\\kafkachatsolution\\kafkachatapp\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7544D8BC-7EBE-41D3-9484-7C811AE42CB4}|KafkaChatApp\\KafkaChatApp.csproj|solutionrelative:kafkachatapp\\kafkaconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7544D8BC-7EBE-41D3-9484-7C811AE42CB4}|KafkaChatApp\\KafkaChatApp.csproj|d:\\cognizant\\week_5\\web_api_handson_6\\kafkachatsolution\\kafkachatapp\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7544D8BC-7EBE-41D3-9484-7C811AE42CB4}|KafkaChatApp\\KafkaChatApp.csproj|solutionrelative:kafkachatapp\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KafkaConsumer.cs",
+              "DocumentMoniker": "D:\\COGNIZANT\\WEEK_5\\Web_Api_Handson_6\\KafkaChatSolution\\KafkaChatApp\\KafkaConsumer.cs",
+              "RelativeDocumentMoniker": "KafkaChatApp\\KafkaConsumer.cs",
+              "ToolTip": "D:\\COGNIZANT\\WEEK_5\\Web_Api_Handson_6\\KafkaChatSolution\\KafkaChatApp\\KafkaConsumer.cs*",
+              "RelativeToolTip": "KafkaChatApp\\KafkaConsumer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T06:00:51.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KafkaProducer.cs",
+              "DocumentMoniker": "D:\\COGNIZANT\\WEEK_5\\Web_Api_Handson_6\\KafkaChatSolution\\KafkaChatApp\\KafkaProducer.cs",
+              "RelativeDocumentMoniker": "KafkaChatApp\\KafkaProducer.cs",
+              "ToolTip": "D:\\COGNIZANT\\WEEK_5\\Web_Api_Handson_6\\KafkaChatSolution\\KafkaChatApp\\KafkaProducer.cs*",
+              "RelativeToolTip": "KafkaChatApp\\KafkaProducer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T06:00:24.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\COGNIZANT\\WEEK_5\\Web_Api_Handson_6\\KafkaChatSolution\\KafkaChatApp\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaChatApp\\Program.cs",
+              "ToolTip": "D:\\COGNIZANT\\WEEK_5\\Web_Api_Handson_6\\KafkaChatSolution\\KafkaChatApp\\Program.cs*",
+              "RelativeToolTip": "KafkaChatApp\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T05:58:28.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
